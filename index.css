@@ -1,0 +1,59 @@
+#logo{
+    float: left;
+    width: 50px;
+    height: auto;
+}
+h1{
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 50px;
+
+}
+section{
+    text-align: center;
+}
+li{
+
+    list-style: none;
+}
+#services, #about, #contact{
+    display: none;
+}
+footer{
+    background-color: #F8F9FB;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 0;
+    font-size: 13px;
+}
+.fa {
+    
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    color: rgb(60, 60, 250);
+  }
+  
+  .fa-google {
+    color: red;
+  }
+  
+  .fa-linkedin {
+    color: rgb(90, 182, 240);
+  }
+  /* #log{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: auto;
+  } */
